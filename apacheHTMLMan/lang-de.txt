@@ -1,0 +1,13 @@
+1. Fehler!
+2. Der Script kann nicht weiter arbeiten.
+3. Der BODY HTML-Element konnte nicht gefunden werden.
+
+
+
+
+
+
+
+
+
+
